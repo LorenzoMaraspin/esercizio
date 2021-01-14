@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ITS.ProjectWork.Server.Mqtt": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

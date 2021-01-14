@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.deps.json
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.dll
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.pdb
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.dll
+C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Protocols\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Protocols.pdb

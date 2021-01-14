@@ -1,0 +1,14 @@
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.deps.json
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.pdb
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.csprojAssemblyReference.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.AssemblyInfoInputs.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.AssemblyInfo.cs
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.csproj.CoreCompileInputs.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.pdb
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Data.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Data.pdb
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.pdb
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Service\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Service.csproj.CopyComplete
