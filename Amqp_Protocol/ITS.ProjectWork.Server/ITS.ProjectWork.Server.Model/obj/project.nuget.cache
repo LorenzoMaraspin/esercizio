@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrvLwOS5JV/pjiRxMLrNVbjYNDbpNEGNm1WBNSiQmXIkFPIYHDOCZDhZ//1KWte+HCd0uFK6z5ggH+XoT5Hp1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lmara\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Service\\ITS.ProjectWork.Server.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\ITS.ProjectWork.Server.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\ITS.ProjectWork.Server.Data.csproj",
+        "projectName": "ITS.ProjectWork.Server.Data",
+        "projectPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\ITS.ProjectWork.Server.Data.csproj",
+        "packagesPath": "C:\\Users\\lmara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj": {
+                "projectPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj",
+        "projectName": "ITS.ProjectWork.Server.Model",
+        "projectPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\ITS.ProjectWork.Server.Model.csproj",
+        "packagesPath": "C:\\Users\\lmara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Service\\ITS.ProjectWork.Server.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Service\\ITS.ProjectWork.Server.Service.csproj",
+        "projectName": "ITS.ProjectWork.Server.Service",
+        "projectPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Service\\ITS.ProjectWork.Server.Service.csproj",
+        "packagesPath": "C:\\Users\\lmara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lmara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\ITS.ProjectWork.Server.Data.csproj": {
+                "projectPath": "C:\\Users\\lmara\\source\\repos\\PW_C#\\ITS.ProjectWork.Server\\ITS.ProjectWork.Server.Data\\ITS.ProjectWork.Server.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "M2Mqtt": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

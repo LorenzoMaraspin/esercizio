@@ -1,0 +1,9 @@
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.deps.json
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.pdb
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.csprojAssemblyReference.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.AssemblyInfoInputs.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.AssemblyInfo.cs
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.csproj.CoreCompileInputs.cache
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.dll
+C:\Users\lmara\source\repos\PW_C#\ITS.ProjectWork.Server\ITS.ProjectWork.Server.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Server.Model.pdb
