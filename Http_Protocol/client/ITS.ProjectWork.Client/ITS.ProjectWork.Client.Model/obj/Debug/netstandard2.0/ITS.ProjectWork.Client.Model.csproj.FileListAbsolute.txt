@@ -1,9 +1,0 @@
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.csprojAssemblyReference.cache
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.AssemblyInfoInputs.cache
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.AssemblyInfo.cs
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.deps.json
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.dll
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\bin\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.pdb
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.dll
-C:\Users\Gabriel\Desktop\ITS.ProjectWork.Client\ITS.ProjectWork.Client.Model\obj\Debug\netstandard2.0\ITS.ProjectWork.Client.Model.pdb
